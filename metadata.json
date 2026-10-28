@@ -1,0 +1,6 @@
+{
+  "name": "CrediFlow Analytics PWA - Acompanhamento de Vendas",
+  "description": "PWA em tempo real com dashboards dinâmicos, filtros avançados e IA Gemini para acompanhamento de vendas, assessoria e comissões da planilha Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
